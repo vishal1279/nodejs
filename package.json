@@ -22,17 +22,18 @@
     "body-parser": "*",
     "connect-flash": "*",
     "cookie-parser": "*",
+    "ejs": "^2.5.5",
+    "exprees-session": "*",
     "express": "*",
     "express-handlebars": "*",
     "express-messages": "*",
-    "exprees-session": "*",
     "express-validator": "*",
+    "gulp": "^4.0",
+    "gulp-jshint": "*",
     "mongodb": "*",
     "mongoose": "*",
     "passport": "*",
-    "passport-http": "*",
-    "gulp": "^4.0",
-    "gulp-jshint": "*"
+    "passport-http": "*"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
