@@ -4,7 +4,8 @@
   "description": "simple webappp",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,29 @@
   "bugs": {
     "url": "https://github.com/vishal1279/nodejs/issues"
   },
-  "homepage": "https://github.com/vishal1279/nodejs#readme"
+  "homepage": "https://github.com/vishal1279/nodejs#readme",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "exprees-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "gulp": "^4.0",
+    "gulp-jshint": "*"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-jshint": "^2.0.4",
+    "jshint": "^2.9.4",
+    "wiredep": "^4.0.0"
+  }
 }
