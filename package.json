@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/vishal_mindler/nodejs.git"
+    "url": "git+https://github.com/vishal1279/nodejs.git"
   },
   "author": "vishal",
   "license": "ISC",
   "bugs": {
-    "url": "https://bitbucket.org/vishal_mindler/nodejs/issues"
+    "url": "https://github.com/vishal1279/nodejs/issues"
   },
-  "homepage": "https://bitbucket.org/vishal_mindler/nodejs#readme",
+  "homepage": "https://github.com/vishal1279/nodejs#readme",
   "dependencies": {
     "bcryptjs": "*",
     "body-parser": "*",
